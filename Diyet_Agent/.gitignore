@@ -18,3 +18,4 @@ __pycache__/
 
 # Jupyter notebook checkpointleri
 .ipynb_checkpoints/
+!app.py
