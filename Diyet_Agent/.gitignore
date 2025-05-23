@@ -1,0 +1,20 @@
+# Sanal ortam klasörünü dışla
+venv/
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# macOS sistem dosyaları
+.DS_Store
+
+# Pipenv veya Poetry dosyaları
+*.lock
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints/
