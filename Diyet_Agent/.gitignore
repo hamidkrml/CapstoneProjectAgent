@@ -3,7 +3,7 @@ venv/
 
 # Python cache dosyaları
 __pycache__/
-*.py[cod]
+
 *.pyo
 
 # IDE dosyaları
